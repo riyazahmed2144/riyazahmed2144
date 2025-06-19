@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web Developer and ML Enthusiast from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Final+Year+CS+Student;React+%7C+Node+%7C+Flutter+Dev;AI+%7C+ML+%7C+TFLite+Enthusiast;Let's+Build+Together!&center=true&width=440&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Final+Year+CS+Student;React+%7C+Node+%7CJAVA;Let's+Build+Together!&center=true&width=440&height=45" />
 </p>
 
 ---
