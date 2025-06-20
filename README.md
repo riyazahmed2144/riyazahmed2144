@@ -50,13 +50,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riyazahmed2144&theme=tokyonight&no-frame=true" />
-</p>
-
----
 
 ## 🔗 Let's Connect
 
