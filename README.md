@@ -14,7 +14,7 @@
 - 💡 Exploring AI, ML, and neural schemas  
 - 📫 Reach me at: **rariyazahmed2144@gmail.com**  
 - 🌱 Currently learning: **Flutter**, **TensorFlow Lite**, **Express.js**, and **Mongoose**  
-- 🌍 Checkout my portfolio: [**riyaz-ahmed-portfolio.vercel.app**](https://riyaz-ahmed-portfolio.vercel.app/)  
+- 🌍 Checkout my portfolio: [**riyaz-ahmed-portfolio.vercel.app**](https://riyaz-ahmed.vercel.app/)  
 
 ---
 
@@ -52,7 +52,7 @@
 
 ## 🔗 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Click_Here-9146FF?style=flat&logo=vercel&logoColor=white)](https://portfolio-react-js-zijs.vercel.app/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Click_Here-9146FF?style=flat&logo=vercel&logoColor=white)](https://riyaz-ahmed.vercel.app/)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riyaz-ahmed-9b5108279)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Riyaz2144)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rariyazahmed2144@gmail.com)
